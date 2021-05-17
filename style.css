@@ -1,0 +1,14 @@
+body
+{
+	background: #75f542;
+}
+
+	.player1_div , .player2_div
+	{
+		background: rgb(240, 111, 111);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
