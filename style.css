@@ -1,4 +1,4 @@
-body
+.bod
 {
 	background: #75f542;
 }
@@ -10,5 +10,18 @@ body
 		float: none;
 		border-radius: 15px;
 	}
-
-
+.bo{
+	background: rgb(255, 166, 0);
+}
+#ans
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+input{
+	width:60%;
+}
